@@ -10,8 +10,7 @@
 	"name": "multiplayer",
 	"version": "v1.10",
 	"developer": "[esilagd]",
-	"description": "the multiplayer is for mod, allowing to play together like globed. if you want to create room press create room them you can choose main level by robtop and you can make max attempe. if you want to join room click join.dont worry you can see trail 
-on other player.if you want to Display trail go to my mods Settings press disblay trail.and thats it.",
+	"description": "multiplayer for versus mode.",
 	"dependencies": {
 	   "geode.node-ids": ">=v1.23.3"
 "incompatibilities": {},
