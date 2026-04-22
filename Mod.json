@@ -13,6 +13,22 @@
 	"description": "the multiplayer is for mod, allowing to play together like globed. if you want to create room press create room them you can choose main level by robtop and you can make max attempe. if you want to join room click join.dont worry you can see trail 
 on other player.if you want to Display trail go to my mods Settings press disblay trail.and thats it.",
 	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+	   "geode.node-ids": ">=v1.23.3"
+"incompatibilities": {},
+    "links": {
+        "homepage": {
+        "source": "https://github.com/esilagd/multiplayer",
+        "community": "https://discord.gg//multiplayergd
+    },
+    "tags": gameplay,online,deleloper
+        "online"
+    ],
+    "settings": {
+    
+        "type": "trail",
+            "name": "Disblade trail",
+            "description": disblade trail other player and wave trail like globed.",
+            "default": false
+        },
+     
 }
