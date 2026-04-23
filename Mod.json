@@ -9,7 +9,7 @@
 	"id": "esilagd.multiplayer",
 	"name": "multiplayer",
 	"version": "v1.10",
-	"developer": "[esilagd]",
+	"developer": "esilagd",
 	"description": "multiplayer for versus mode.",
 	"dependencies": {
 	   "geode.node-ids": ">=v1.23.3"
