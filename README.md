@@ -8,7 +8,9 @@ if you want to join room click play them click join.
 dont worry you can see trail on other player.if you want to Display trail go to my mods Settings press disblay trail
 # release
 click this link to download my mods
-1.10 - 
+
+1.10 - https://github.com/Esilagd/multiplayer/releases/tag/1.10
+
 ## how many player should be
 sorry guys just only 5 player max not more
 ## what happent
