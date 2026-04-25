@@ -9,11 +9,6 @@ dont worry you can see trail on other player.if you want to Display trail go to 
 
 you will see it what will it
 
-# release
-click this link to download my mods
-
-1.10 - https://github.com/Esilagd/multiplayer/releases/tag/1.10
-
 ## how many player should be
 sorry guys just only 5 player max not more
 ## what happent
