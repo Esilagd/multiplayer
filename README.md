@@ -8,7 +8,8 @@ if you want to join room click play them click join.
 dont worry you can see trail on other player.if you want to Display trail go to my mods Settings press disblay trail
 
 you will see it what will it
-https://github.com/Esilagd/multiplayer/blob/main/IMG_1743.jpeg
+<img width="1749" height="1301" alt="image" src="https://github.com/user-attachments/assets/217937b2-aaaa-45a2-baf0-2af3601f8ef4" />
+
 # release
 click this link to download my mods
 
