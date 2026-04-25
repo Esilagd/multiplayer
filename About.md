@@ -5,8 +5,4 @@ if you want to create room press create room them you can choose main level by r
 ## joining room
 if you want to join room click join.dont worry you can see trail on other player.
 ### disblade trail
-if you want to Display trail go to my mods Settings press disblay trail.
-#credit
-just only me but thanks for guiding geode on github
-
-and thats it.
+if you want to Display trail 
