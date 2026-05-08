@@ -23,83 +23,10 @@
     ],
     "settings": {
         "force-no-preload": {
-            "type": "",
-            "name": "Disable Preloading",
-            "description": "Forcibly disables asset preloading, overriding any other option set in Globed settings. This should only be set if Globed crashes on launch due to preloading.",
+            "type": "trail",
+            "name": "Disable trail",
+            "description": "a multiplayer with versus mode for geode.",
             "default": false
-        },
-        "force-preload": {
-            "type": "bool",
-            "name": "Force Preload",
-            "description": "Forces asset preloading regardless of available RAM (only works if preloading is not disabled). When this is disabled (the default), preloading may be skipped if the system is low on RAM.",
-            "default": false
-        },
-        "keybinds-title": {
-            "type": "title",
-            "name": "Keybinds"
-        },
-        "keybind-voice-chat": {
-            "type": "keybind",
-            "name": "Voice Chat Activate",
-            "description": "Activates voice chat when held, allowing you to talk to other players in the same level",
-            "default": "V"
-        },
-        "keybind-deafen": {
-            "type": "keybind",
-            "name": "Deafen",
-            "description": "Toggles deafen mode, which prevents you from hearing other players and talking in voice chat",
-            "default": "B"
-        },
-        "keybind-hide-players": {
-            "type": "keybind",
-            "name": "Hide Players",
-            "description": "Toggles visibility of other players in a level",
-            "default": []
-        },
-        "keybind-emote-0": {
-            "type": "keybind",
-            "name": "Emote 1",
-            "default": []
-        },
-        "keybind-emote-1": {
-            "type": "keybind",
-            "name": "Emote 2",
-            "default": []
-        },
-        "keybind-emote-2": {
-            "type": "keybind",
-            "name": "Emote 3",
-            "default": []
-        },
-        "keybind-emote-3": {
-            "type": "keybind",
-            "name": "Emote 4",
-            "default": []
-        },
-        "keybind-emote-4": {
-            "type": "keybind",
-            "name": "Emote 5",
-            "default": []
-        },
-        "keybind-emote-5": {
-            "type": "keybind",
-            "name": "Emote 6",
-            "default": []
-        },
-        "keybind-emote-6": {
-            "type": "keybind",
-            "name": "Emote 7",
-            "default": []
-        },
-        "keybind-emote-7": {
-            "type": "keybind",
-            "name": "Emote 8",
-            "default": []
-        },
-        "keybind-force-switch": {
-            "type": "keybind",
-            "name": "Force Switch",
-            "default": []
         }
     },
     "resources": {
@@ -108,38 +35,17 @@
             "resources/menu/*.png",
             "resources/featured/*.png",
             "resources/roles/*.png",
-            "resources/mod/*.png",
             "resources/game/*.png"
-        ],
-        "spritesheets": {
-            "twemojis": [
-                "resources/emoji/*.png"
-            ],
-            "emotes": [
-                "resources/emotes_sprites/*.png"
-            ]
-        },
-        "fonts": {
-            "Consolas": {
-                "path": "resources/fonts/Consolas-Regular.ttf",
-                "size": 64
-            }
-        },
-        "files": [
-            "resources/emotes_sfx/*.ogg"
         ]
     },
     "api": {
         "include": [
-            "include/globed/*.hpp",
-            "include/globed/audio/*.hpp",
-            "include/globed/audio/sound/*.hpp",
-            "include/globed/core/*.hpp",
-            "include/globed/core/data/*.hpp",
-            "include/globed/core/game/*.hpp",
-            "include/globed/core/net/*.hpp",
-            "include/globed/soft-link/*.hpp",
-            "include/globed/util/*.hpp"
+            "include/multiplayer/*.hpp",
+            "include/multiplayer/core/*.hpp",
+            "include/multiplayer/core/data/*.hpp",
+            "include/multiplayer/core/game/*.hpp",
+            "include/multiplayer/core/net/*.hpp",
+            "include/multiplayer/soft-link/*.hpp",
         ]
     }
 }
