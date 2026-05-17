@@ -2,16 +2,16 @@
 
 this is multiplayer mod for geode allowing to play other player (like globed)
 
-## creating room
+# creating room
 
 if you want to create room press create and them you can choose you want any
 if you finished click create room
 
-## joining room
+# joining room
 
 if you want to join room press join and them choose other room you want to join and them click join
 
-## WARNING!
+# WARNING!
 
 this is all drawing i created
 
